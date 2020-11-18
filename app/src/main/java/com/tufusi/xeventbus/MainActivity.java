@@ -1,4 +1,4 @@
-package com.tufusi.myapplication;
+package com.tufusi.xeventbus;
 
 import androidx.appcompat.app.AppCompatActivity;
 
