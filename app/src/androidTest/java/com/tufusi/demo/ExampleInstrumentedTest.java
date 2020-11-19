@@ -1,4 +1,4 @@
-package com.tufusi.xeventbus;
+package com.tufusi.demo;
 
 import android.content.Context;
 

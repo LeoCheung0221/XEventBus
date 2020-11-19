@@ -1,2 +1,3 @@
+include ':xeventbus'
 include ':app'
 rootProject.name = "XEventBus"
